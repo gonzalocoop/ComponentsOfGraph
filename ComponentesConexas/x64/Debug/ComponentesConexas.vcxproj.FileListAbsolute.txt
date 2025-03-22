@@ -1,0 +1,5 @@
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\x64\Debug\ComponentesConexas.vcxproj.AssemblyReference.cache
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\x64\Debug\ComponentesConexas.vcxproj.SuggestedBindingRedirects.cache
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\x64\Debug\ComponentesConexas.FormGrafo.resources
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\x64\Debug\ComponentesConexas.vcxproj.GenerateResource.cache
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\x64\Debug\ComponentesConexas.FormComponente.resources

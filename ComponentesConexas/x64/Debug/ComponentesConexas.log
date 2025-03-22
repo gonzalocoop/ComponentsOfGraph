@@ -1,0 +1,90 @@
+﻿  FormComponente.cpp
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(66,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(67,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(68,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(69,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(84,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\FormGrafo.h(120,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(33,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(34,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(44,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(60,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(66,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(66,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(77,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(78,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(78,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(115,25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(118,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(221,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(221,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(240,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(240,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(5912,29): warning C4805: '==': unsafe mix of type 'bool' and type 'const _Ty' in operation
+          with
+          [
+              _Ty=int
+          ]
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(115,27): message : see reference to function template instantiation '__int64 std::count<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,int>(const _InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _Ty=int
+          ]
+  FormGrafo.cpp
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(66,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(67,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(68,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(69,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(84,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\FormGrafo.h(120,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FormMenu.cpp
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(32,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(48,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(66,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(67,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(68,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(69,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\VectorNodos.h(84,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\FormGrafo.h(120,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(33,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(34,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(44,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(60,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(66,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(66,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(77,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(78,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(78,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(115,25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(118,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(221,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(221,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(240,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(240,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\FormMenu.h(135,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\FormMenu.h(173,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(5912,29): warning C4805: '==': unsafe mix of type 'bool' and type 'const _Ty' in operation
+          with
+          [
+              _Ty=int
+          ]
+D:\coding\University Projects\matecomputacional\ComponentesConexas\ComponentesConexas\Calculo.h(115,27): message : see reference to function template instantiation '__int64 std::count<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,int>(const _InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _Ty=int
+          ]
+  Generating Code...
+  FormComponente.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ComponentesConexas.vcxproj -> D:\coding\University Projects\matecomputacional\ComponentesConexas\x64\Debug\ComponentesConexas.exe
